@@ -7,4 +7,4 @@ Current Features
 - Row Options
 - Overlay Options
 - Video Background
-- Cover Img background
+

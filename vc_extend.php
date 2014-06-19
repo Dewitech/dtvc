@@ -2,7 +2,7 @@
 /*
 Plugin Name: Dewitech Visual Composer Custom Plugin
 Plugin URI: http://github.com/dewitech
-Description: Extend Visual Composer with your own set of shortcodes.
+Description: Extend Visual Composer with your own set of shortcodes. This plugin require <a href="http://bit.ly/dewitechvc">visual composer</a> to run, <a href="http://bit.ly/dewitechvc">click here</a> to get visual composer
 Version: 0.1.1
 Author: Ryan Hidajat
 Author URI: http://bit.ly/ryanodesk
